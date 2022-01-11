@@ -1,0 +1,39 @@
+Chapter 11 Project Testing
+
+
+	Human attacks for 6 point(s)!
+Magical attack inflicts 4 additional damage point(s)!
+	Elf attacks for 8 point(s)!
+	Cyberdemon attacks for 5 point(s)!
+Balrog speed attack inflicts 8 additional damage point(s)!
+	Balrog attacks for 11 point(s)!
+
+Type Y or y to output again. Type anything else to terminate program: y
+
+	Human attacks for 7 point(s)!
+	Elf attacks for 1 point(s)!
+Demonic attack inflicts 50 additional damage points!
+	Cyberdemon attacks for 55 point(s)!
+Balrog speed attack inflicts 10 additional damage point(s)!
+	Balrog attacks for 12 point(s)!
+
+Type Y or y to output again. Type anything else to terminate program: y
+
+	Human attacks for 2 point(s)!
+	Elf attacks for 9 point(s)!
+	Cyberdemon attacks for 8 point(s)!
+Balrog speed attack inflicts 1 additional damage point(s)!
+	Balrog attacks for 8 point(s)!
+
+Type Y or y to output again. Type anything else to terminate program: y
+
+	Human attacks for 7 point(s)!
+	Elf attacks for 4 point(s)!
+	Cyberdemon attacks for 4 point(s)!
+Demonic attack inflicts 50 additional damage points!
+Balrog speed attack inflicts 7 additional damage point(s)!
+	Balrog attacks for 59 point(s)!
+
+Type Y or y to output again. Type anything else to terminate program: n
+
+The damage has been done!
